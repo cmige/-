@@ -10,4 +10,11 @@
 
 #### 代码仓库
 
-- 
+- https://github.com/cmige/visualizeDemo
+
+#### 使用说明
+```
+npm install
+npm run dev
+```
+
